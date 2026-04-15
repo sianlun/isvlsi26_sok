@@ -1,0 +1,19 @@
+# Copyrighted source PDFs — do not redistribute
+*.pdf
+
+# Derived plain-text extracts (potentially copyright-bearing)
+_txt/
+_txt_alt/
+
+# OS / editor artefacts
+.DS_Store
+.~lock.*
+~$*
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
