@@ -1,0 +1,142 @@
+[
+ {
+  "filename": "2025_online_on_device_adaptation_of_linguistic_fuzzy_models_for_t.pdf",
+  "doi": "10.3390/ai6120325",
+  "url": "https://www.mdpi.com/2673-2688/6/12/325/pdf",
+  "status": "gold",
+  "title": "Online On-Device Adaptation of Linguistic Fuzzy Models for TinyML Systems"
+ },
+ {
+  "filename": "2025_benchmarking_ultra_low_power_npus.pdf",
+  "doi": "10.1145/3680207.3765264",
+  "url": "https://dl.acm.org/doi/pdf/10.1145/3680207.3765264",
+  "status": "gold",
+  "title": "Benchmarking Ultra-Low-Power \u03bcNPUs"
+ },
+ {
+  "filename": "2025_real_time_assessment_of_ecg_classification_based_on_time_ser.pdf",
+  "doi": "10.5614/j.eng.technol.sci.2025.57.4.8",
+  "url": "https://jets.itb.ac.id/jets/article/download/502/209",
+  "status": "gold",
+  "title": "Real-time Assessment of ECG Classification based on Time-series Data and Other Types of Features"
+ },
+ {
+  "filename": "2025_reliable_ecg_anomaly_detection_on_edge_devices_for_internet.pdf",
+  "doi": "10.3390/s25082496",
+  "url": "https://www.mdpi.com/1424-8220/25/8/2496/pdf?version=1744732568",
+  "status": "gold",
+  "title": "Reliable ECG Anomaly Detection on Edge Devices for Internet of Medical Things Applications"
+ },
+ {
+  "filename": "2025_early_driver_fatigue_detection_system_a_cost_effective_and_w.pdf",
+  "doi": "10.3390/vehicles7010003",
+  "url": "https://www.mdpi.com/2624-8921/7/1/3/pdf?version=1736332135",
+  "status": "gold",
+  "title": "Early Driver Fatigue Detection System: A Cost-Effective and Wearable Approach Utilizing Embedded Machine Learning"
+ },
+ {
+  "filename": "2025_implementing_deep_neural_networks_on_arm_based_microcontroll.pdf",
+  "doi": "10.3390/app15041965",
+  "url": "https://www.mdpi.com/2076-3417/15/4/1965/pdf?version=1739518142",
+  "status": "gold",
+  "title": "Implementing Deep Neural Networks on ARM-Based Microcontrollers: Application for Ventricular Fibrillation Detection"
+ },
+ {
+  "filename": "2025_a_survey_of_efficient_lightweight_cryptography_for_power_con.pdf",
+  "doi": "10.3390/technologies13010003",
+  "url": "https://www.mdpi.com/2227-7080/13/1/3/pdf?version=1735052278",
+  "status": "gold",
+  "title": "A Survey of Efficient Lightweight Cryptography for Power-Constrained Microcontrollers"
+ },
+ {
+  "filename": "2025_advancing_wearable_health_and_sports_monitoring_through_an_e.pdf",
+  "doi": "10.1145/3706594.3727580",
+  "url": "https://accedacris.ulpgc.es/jspui/bitstream/10553/147010/1/Montiel.pdf",
+  "status": "green",
+  "title": "Advancing Wearable Health and Sports Monitoring Through an Edge\u2013Cloud AI Continuum. Invited Paper"
+ },
+ {
+  "filename": "2024_research_on_a_lightweight_arrhythmia_classification_model_ba.pdf",
+  "doi": "10.3390/s24247896",
+  "url": "https://www.mdpi.com/1424-8220/24/24/7896/pdf?version=1733846420",
+  "status": "gold",
+  "title": "Research on a Lightweight Arrhythmia Classification Model Based on Knowledge Distillation for Wearable Single-Lead ECG Monitoring Systems"
+ },
+ {
+  "filename": "2024_analyzing_and_comparing_deep_learning_models_on_an_arm_32_bi.pdf",
+  "doi": "10.1109/JSEN.2024.3364249",
+  "url": "https://hal.science/hal-04462710v2/document",
+  "status": "green",
+  "title": "Analyzing and Comparing Deep Learning Models on an ARM 32 Bits Microcontroller for Pre-Impact Fall Detection"
+ },
+ {
+  "filename": "2024_real_time_temperature_anomaly_detection_in_vaccine_refrigera.pdf",
+  "doi": "10.3389/frai.2024.1429602",
+  "url": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1429602/pdf",
+  "status": "gold",
+  "title": "Real-time temperature anomaly detection in vaccine refrigeration systems using deep learning on a resource-constrained microcontroller"
+ },
+ {
+  "filename": "2024_flexible_and_fully_quantized_lightweight_tinyissimoyolo_for.pdf",
+  "doi": "10.1109/ACCESS.2024.3404878",
+  "url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/10538092.pdf",
+  "status": "gold",
+  "title": "Flexible and Fully Quantized Lightweight TinyissimoYOLO for Ultra-Low-Power Edge Systems"
+ },
+ {
+  "filename": "2024_m2skd_multi_to_single_knowledge_distillation_of_real_time_ep.pdf",
+  "doi": "10.1145/3675402",
+  "url": "https://bird.bcamath.org/bitstream/20.500.11824/1938/1/54026886_File000002_1348228181.pdf",
+  "status": "green",
+  "title": "M2SKD: Multi-to-Single Knowledge Distillation of Real-Time Epileptic Seizure Detection for Low-Power Wearable Systems"
+ },
+ {
+  "filename": "2024_a_review_on_the_emerging_technology_of_tinyml.pdf",
+  "doi": "10.1145/3661820",
+  "url": "https://dl.acm.org/doi/pdf/10.1145/3661820",
+  "status": "hybrid",
+  "title": "A Review on the emerging technology of TinyML"
+ },
+ {
+  "filename": "2023_design_and_implementation_of_an_atrial_fibrillation_detectio.pdf",
+  "doi": "10.3390/s23177521",
+  "url": "https://www.mdpi.com/1424-8220/23/17/7521/pdf?version=1693374819",
+  "status": "gold",
+  "title": "Design and Implementation of an Atrial Fibrillation Detection Algorithm on the ARM Cortex-M4 Microcontroller"
+ },
+ {
+  "filename": "2023_a_circulant_inertia_three_hopfield_neuron_system_dynamics_of.pdf",
+  "doi": "10.1088/1402-4896/acdcce",
+  "url": "https://iopscience.iop.org/article/10.1088/1402-4896/acdcce/pdf",
+  "status": "hybrid",
+  "title": "A circulant inertia three Hopfield neuron system: dynamics, offset boosting, multistability and simple microcontroller- based practical implementation"
+ },
+ {
+  "filename": "2023_a_tiny_matched_filter_based_cnn_for_inter_patient_ecg_classi.pdf",
+  "doi": "10.3390/s23031365",
+  "url": "https://www.mdpi.com/1424-8220/23/3/1365/pdf?version=1676019736",
+  "status": "gold",
+  "title": "A Tiny Matched Filter-Based CNN for Inter-Patient ECG Classification and Arrhythmia Detection at the Edge"
+ },
+ {
+  "filename": "2023_a_microcontroller_based_platform_for_cognitive_tracking_of_s.pdf",
+  "doi": "10.1109/ACCESS.2023.3294097",
+  "url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/10177705.pdf",
+  "status": "gold",
+  "title": "A Microcontroller-Based Platform for Cognitive Tracking of Sensorimotor Training"
+ },
+ {
+  "filename": "2022_a_comparison_of_energy_efficient_seizure_detectors_for_impla.pdf",
+  "doi": "10.3389/fneur.2021.703797",
+  "url": "https://www.frontiersin.org/articles/10.3389/fneur.2021.703797/pdf",
+  "status": "gold",
+  "title": "A Comparison of Energy-Efficient Seizure Detectors for Implantable Neurostimulation Devices"
+ },
+ {
+  "filename": "2022_a_self_contained_stft_cnn_for_ecg_classification_and_arrhyth.pdf",
+  "doi": "10.1109/ACCESS.2022.3204703",
+  "url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/09878113.pdf",
+  "status": "gold",
+  "title": "A Self-Contained STFT CNN for ECG Classification and Arrhythmia Detection at the Edge"
+ }
+]

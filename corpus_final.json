@@ -1,0 +1,541 @@
+[
+ {
+  "filename": "2025_intelligent_detection_and_classification_of_tetracycline_dru.pdf",
+  "doi": "10.1016/j.snb.2025.138638",
+  "title": "Intelligent detection and classification of tetracycline drugs by rare earth fluorescence sensing platform based on deep learning algorithm and STM32 microcontroller",
+  "year": "2025",
+  "doi_url": "https://doi.org/10.1016/j.snb.2025.138638"
+ },
+ {
+  "filename": "2025_a_hybrid_optimization_enhanced_1d_rescnn_framework_for_epile.pdf",
+  "doi": "10.1038/s41598-025-90164-3",
+  "title": "A hybrid optimization-enhanced 1D-ResCNN framework for epileptic spike detection in scalp EEG signals",
+  "year": "2025",
+  "doi_url": "https://doi.org/10.1038/s41598-025-90164-3"
+ },
+ {
+  "filename": "2025_fedtinymed_federated_learning_enabled_tiny_multi_task_machin.pdf",
+  "doi": "10.1016/j.compeleceng.2025.110761",
+  "title": "FedTinyMed: Federated learning enabled tiny multi task machine learning model for smart healthcare monitoring for IoMT",
+  "year": "2025",
+  "doi_url": "https://doi.org/10.1016/j.compeleceng.2025.110761"
+ },
+ {
+  "filename": "2025_an_edge_ai_approach_for_low_power_real_time_atrial_fibrillat.pdf",
+  "doi": "10.3390/s25237244",
+  "title": "An Edge AI Approach for Low-Power, Real-Time Atrial Fibrillation Detection on Wearable Devices Based on Heartbeat Intervals",
+  "year": "2025",
+  "doi_url": "https://doi.org/10.3390/s25237244"
+ },
+ {
+  "filename": "2025_real_time_stress_detection_from_raw_noisy_ppg_signals_using.pdf",
+  "doi": "10.1007/s13369-024-09095-2",
+  "title": "Real-Time Stress Detection from Raw Noisy PPG Signals Using LSTM Model Leveraging TinyML",
+  "year": "2025",
+  "doi_url": "https://doi.org/10.1007/s13369-024-09095-2"
+ },
+ {
+  "filename": "2025_object_detection_in_video_surveillance_using_mobilenetv2_on.pdf",
+  "doi": "10.11591/eei.v14i1.8131",
+  "title": "Object detection in video surveillance using MobileNetV2 on resource-constrained low-power edge devices",
+  "year": "2025",
+  "doi_url": "https://doi.org/10.11591/eei.v14i1.8131"
+ },
+ {
+  "filename": "2025_a_nas_based_tinyml_for_secure_authentication_detection_on_sa.pdf",
+  "doi": "10.1109/TCE.2024.3513331",
+  "title": "A NAS-Based TinyML for Secure Authentication Detection on SAGVN-Enabled Consumer Edge Devices",
+  "year": "2025",
+  "doi_url": "https://doi.org/10.1109/TCE.2024.3513331"
+ },
+ {
+  "filename": "2025_harnessing_tinyml_for_accurate_ecg_beat_detection.pdf",
+  "doi": "10.1109/ICDV66179.2025.11135036",
+  "title": "Harnessing TinyML for Accurate ECG Beat Detection",
+  "year": "2025",
+  "doi_url": "https://doi.org/10.1109/ICDV66179.2025.11135036"
+ },
+ {
+  "filename": "2025_tinyml_prototype_of_infant_cry_classification_system.pdf",
+  "doi": "10.1109/ACCESS.2025.3601441",
+  "title": "TinyML Prototype of Infant Cry Classification System",
+  "year": "2025",
+  "doi_url": "https://doi.org/10.1109/ACCESS.2025.3601441"
+ },
+ {
+  "filename": "2025_optimized_neural_architecture_for_wearable_health_devices_us.pdf",
+  "doi": "10.1109/ICIMIA67127.2025.11200667",
+  "title": "Optimized Neural Architecture for Wearable Health Devices using Edge-Level TinyML",
+  "year": "2025",
+  "doi_url": "https://doi.org/10.1109/ICIMIA67127.2025.11200667"
+ },
+ {
+  "filename": "2025_a_tiny_deep_learning_model_for_sleep_apnea_detection_based_o.pdf",
+  "doi": "10.1109/MeMeA65319.2025.11068052",
+  "title": "A Tiny Deep Learning Model for Sleep Apnea Detection Based on ECG Signals",
+  "year": "2025",
+  "doi_url": "https://doi.org/10.1109/MeMeA65319.2025.11068052"
+ },
+ {
+  "filename": "2025_analysing_the_effect_of_edge_optimized_deep_learning_models.pdf",
+  "doi": "10.1109/ICISC65841.2025.11188323",
+  "title": "Analysing the Effect of Edge-Optimized Deep Learning Models on Improving Low-Powered Iot Devices Real-Time Object Detection",
+  "year": "2025",
+  "doi_url": "https://doi.org/10.1109/ICISC65841.2025.11188323"
+ },
+ {
+  "filename": "2025_enhanced_vector_quantization_for_embedded_machine_learning_a.pdf",
+  "doi": "10.1109/ACCESS.2025.3532849",
+  "title": "Enhanced Vector Quantization for Embedded Machine Learning: A Post-Training Approach with Incremental Clustering",
+  "year": "2025",
+  "doi_url": "https://doi.org/10.1109/ACCESS.2025.3532849"
+ },
+ {
+  "filename": "2025_wearable_ear_centric_physiological_sensing_with_on_edge_phys.pdf",
+  "doi": "10.1109/JIOT.2025.3609250",
+  "title": "Wearable Ear-Centric Physiological Sensing With On-Edge Physics-Informed Neural Networks for Negative Mental State Detection",
+  "year": "2025",
+  "doi_url": "https://doi.org/10.1109/JIOT.2025.3609250"
+ },
+ {
+  "filename": "2025_lsnn_model_a_lightweight_spiking_neural_network_based_depres.pdf",
+  "doi": "10.1109/TMC.2025.3586591",
+  "title": "LSNN Model: A Lightweight Spiking Neural Network-Based Depression Classification Model for Wearable EEG Sensors",
+  "year": "2025",
+  "doi_url": "https://doi.org/10.1109/TMC.2025.3586591"
+ },
+ {
+  "filename": "2025_integrated_safety_helmet_with_tinyml_for_real_time_anomaly_d.pdf",
+  "doi": "10.1109/ICEAMST67459.2025.11335962",
+  "title": "Integrated Safety Helmet with TinyML for Real-Time Anomaly Detection in Aviation Crew",
+  "year": "2025",
+  "doi_url": "https://doi.org/10.1109/ICEAMST67459.2025.11335962"
+ },
+ {
+  "filename": "2025_limo_a_lightweight_mambaout_system_for_end_to_end_iomt_ecg_d.pdf",
+  "doi": "10.1109/EMBC58623.2025.11253945",
+  "title": "LiMO: A Lightweight MambaOut system for end-to-end IoMT ECG Diagnosis with Fully Configurable Quantization Co-Design on MCU",
+  "year": "2025",
+  "doi_url": "https://doi.org/10.1109/EMBC58623.2025.11253945"
+ },
+ {
+  "filename": "2025_implementation_of_an_optimized_deep_learning_model_to_assess.pdf",
+  "doi": "10.1109/ICEE67339.2025.11213741",
+  "title": "Implementation of an Optimized Deep Learning Model to Assess Pediatric Sleep Apnea Severity Using SpO2 Signals on Resource-Limited Microcontrollers",
+  "year": "2025",
+  "doi_url": "https://doi.org/10.1109/ICEE67339.2025.11213741"
+ },
+ {
+  "filename": "2025_qcsnn_a_memory_efficient_spiking_neural_network_for_on_devic.pdf",
+  "doi": "10.1109/COINS65080.2025.11125744",
+  "title": "QCSNN: A Memory-Efficient Spiking Neural Network for On-Device ECG-Based Arrhythmia Detection",
+  "year": "2025",
+  "doi_url": "https://doi.org/10.1109/COINS65080.2025.11125744"
+ },
+ {
+  "filename": "2025_into_the_wild_reliable_physiological_sensing_with_on_device.pdf",
+  "doi": "10.1109/BSN66969.2025.11337752",
+  "title": "Into the Wild: Reliable Physiological Sensing with on-Device Autoencoder-Based Anomaly Detection",
+  "year": "2025",
+  "doi_url": "https://doi.org/10.1109/BSN66969.2025.11337752"
+ },
+ {
+  "filename": "2025_tinyml_vs_llms_a_survey_of_extreme_scales_in_machine_learnin.pdf",
+  "doi": "10.1109/ICESA66763.2025.11281142",
+  "title": "TinyML vs LLMs: A Survey of Extreme Scales in Machine Learning",
+  "year": "2025",
+  "doi_url": "https://doi.org/10.1109/ICESA66763.2025.11281142"
+ },
+ {
+  "filename": "2025_an_autoencoder_based_tinyml_model_for_on_device_arrhythmia_d.pdf",
+  "doi": "10.1109/SmartNets65254.2025.11106907",
+  "title": "An Autoencoder-Based TinyML Model for On-Device Arrhythmia Detection",
+  "year": "2025",
+  "doi_url": "https://doi.org/10.1109/SmartNets65254.2025.11106907"
+ },
+ {
+  "filename": "2025_a_computationally_efficient_splitting_wavelet_compression_al.pdf",
+  "doi": "10.1109/MWSCAS53549.2025.11244581",
+  "title": "A Computationally Efficient Splitting Wavelet Compression Algorithm for Wearable ExG Acquisition and Transmission System",
+  "year": "2025",
+  "doi_url": "https://doi.org/10.1109/MWSCAS53549.2025.11244581"
+ },
+ {
+  "filename": "2025_extended_operational_life_for_wearable_health_devices_a_hybr.pdf",
+  "doi": "10.1109/ISCAS56072.2025.11043898",
+  "title": "Extended Operational Life for Wearable Health Devices: A Hybrid TinyML and Server-Side ML Approach",
+  "year": "2025",
+  "doi_url": "https://doi.org/10.1109/ISCAS56072.2025.11043898"
+ },
+ {
+  "filename": "2025_tinyeegconformer_an_attention_based_eeg_decoding_model_for_e.pdf",
+  "doi": "10.1109/SAS65169.2025.11105112",
+  "title": "TinyEEGConformer: An Attention-Based EEG Decoding Model for Embedded Systems",
+  "year": "2025",
+  "doi_url": "https://doi.org/10.1109/SAS65169.2025.11105112"
+ },
+ {
+  "filename": "2025_a_tiny_transformer_for_low_power_arrhythmia_classification_o.pdf",
+  "doi": "10.1109/TBCAS.2024.3401858",
+  "title": "A Tiny Transformer for Low-Power Arrhythmia Classification on Microcontrollers",
+  "year": "2025",
+  "doi_url": "https://doi.org/10.1109/TBCAS.2024.3401858"
+ },
+ {
+  "filename": "2025_optimized_eeg_multi_noise_removal_and_compression_deploying.pdf",
+  "doi": "10.1109/TCE.2025.3562388",
+  "title": "Optimized EEG Multi-Noise Removal and Compression: Deploying a PbP-QLP Enhanced Autoencoder on STM32 Microcontroller",
+  "year": "2025",
+  "doi_url": "https://doi.org/10.1109/TCE.2025.3562388"
+ },
+ {
+  "filename": "2025_graph_neural_networks_for_real_time_biosignal_analysis_in_we.pdf",
+  "doi": "10.1109/ICTBIG68706.2025.11323898",
+  "title": "Graph Neural Networks for Real-Time Biosignal Analysis in Wearable Healthcare Devices",
+  "year": "2025",
+  "doi_url": "https://doi.org/10.1109/ICTBIG68706.2025.11323898"
+ },
+ {
+  "filename": "2025_lems_optimized_large_model_framework_for_edge_ai_in_consumer.pdf",
+  "doi": "10.1109/TCE.2025.3552533",
+  "title": "LEMS: Optimized Large Model Framework for Edge-AI in Consumer Internet of Things Devices",
+  "year": "2025",
+  "doi_url": "https://doi.org/10.1109/TCE.2025.3552533"
+ },
+ {
+  "filename": "2025_towards_portable_mental_stress_detection_systems_a_tinyml_ap.pdf",
+  "doi": "10.1109/ICICKE65317.2025.11136441",
+  "title": "Towards Portable Mental Stress Detection Systems: A TinyML Approach for EEG Analysis",
+  "year": "2025",
+  "doi_url": "https://doi.org/10.1109/ICICKE65317.2025.11136441"
+ },
+ {
+  "filename": "2025_pruning_based_tinyml_optimization_of_machine_learning_models.pdf",
+  "doi": "10.1109/ICC52391.2025.11161868",
+  "title": "Pruning-Based TinyML Optimization of Machine Learning Models for Anomaly Detection in Electric Vehicle Charging Infrastructure",
+  "year": "2025",
+  "doi_url": "https://doi.org/10.1109/ICC52391.2025.11161868"
+ },
+ {
+  "filename": "2025_a_blockchain_based_architecture_for_secure_ecg_monitoring_us.pdf",
+  "doi": "10.1109/ISNCC66965.2025.11250447",
+  "title": "A Blockchain-based Architecture For Secure ECG Monitoring Using Constrained IoT Devices",
+  "year": "2025",
+  "doi_url": "https://doi.org/10.1109/ISNCC66965.2025.11250447"
+ },
+ {
+  "filename": "2025_energy_aware_and_explainable_automated_machine_learning_for.pdf",
+  "doi": "10.1109/JIOT.2025.3611815",
+  "title": "Energy-Aware and Explainable Automated Machine Learning for Anomaly Detection in Healthcare IoT",
+  "year": "2025",
+  "doi_url": "https://doi.org/10.1109/JIOT.2025.3611815"
+ },
+ {
+  "filename": "2025_fice_fovea_inspired_closed_loop_edge_ai_system_for_enhanced.pdf",
+  "doi": "10.1109/EMBC58623.2025.11252789",
+  "title": "FICE: Fovea-Inspired Closed-Loop Edge-AI System for Enhanced Capsule Endoscopy Imaging",
+  "year": "2025",
+  "doi_url": "https://doi.org/10.1109/EMBC58623.2025.11252789"
+ },
+ {
+  "filename": "2024_empowering_healthcare_tinyml_for_precise_lung_disease_classi.pdf",
+  "doi": "10.3390/fi16110391",
+  "title": "Empowering Healthcare: TinyML for Precise Lung Disease Classification",
+  "year": "2024",
+  "doi_url": "https://doi.org/10.3390/fi16110391"
+ },
+ {
+  "filename": "2024_mi_bminet_an_efficient_convolutional_neural_network_for_moto.pdf",
+  "doi": "10.1109/JSEN.2024.3353146",
+  "title": "MI-BMInet: An Efficient Convolutional Neural Network for Motor Imagery Brain-Machine Interfaces With EEG Channel Selection",
+  "year": "2024",
+  "doi_url": "https://doi.org/10.1109/JSEN.2024.3353146"
+ },
+ {
+  "filename": "2024_tinyml_tools_applications_challenges_and_future_research_dir.pdf",
+  "doi": "10.1007/s11042-023-16740-9",
+  "title": "TinyML: Tools, applications, challenges, and future research directions",
+  "year": "2024",
+  "doi_url": "https://doi.org/10.1007/s11042-023-16740-9"
+ },
+ {
+  "filename": "2024_novel_transformation_deep_learning_model_for_electrocardiogr.pdf",
+  "doi": "10.1007/s10723-023-09717-3",
+  "title": "Novel Transformation Deep Learning Model for Electrocardiogram Classification and Arrhythmia Detection using Edge Computing",
+  "year": "2024",
+  "doi_url": "https://doi.org/10.1007/s10723-023-09717-3"
+ },
+ {
+  "filename": "2024_brainfusenet_enhancing_wearable_seizure_detection_through_ee.pdf",
+  "doi": "10.1109/TBCAS.2024.3395534",
+  "title": "BrainFuseNet: Enhancing Wearable Seizure Detection Through EEG-PPG-Accelerometer Sensor Fusion and Efficient Edge Deployment",
+  "year": "2024",
+  "doi_url": "https://doi.org/10.1109/TBCAS.2024.3395534"
+ },
+ {
+  "filename": "2024_dtmm_deploying_tinyml_models_on_extremely_weak_iot_devices_w.pdf",
+  "doi": "10.1109/INFOCOM52122.2024.10621387",
+  "title": "DTMM: Deploying TinyML Models on Extremely Weak IoT Devices with Pruning",
+  "year": "2024",
+  "doi_url": "https://doi.org/10.1109/INFOCOM52122.2024.10621387"
+ },
+ {
+  "filename": "2024_a_65_nw_always_on_ecg_processor_for_continuous_cardiac_arrhy.pdf",
+  "doi": "10.1109/BioCAS61083.2024.10798359",
+  "title": "A 65 nW Always-on ECG Processor for Continuous Cardiac Arrhythmia Monitoring",
+  "year": "2024",
+  "doi_url": "https://doi.org/10.1109/BioCAS61083.2024.10798359"
+ },
+ {
+  "filename": "2024_balancing_accuracy_and_energy_efficiency_on_ultra_law_power.pdf",
+  "doi": "10.1109/COINS61597.2024.10622676",
+  "title": "Balancing Accuracy and Energy Efficiency on Ultra-Law-Power Platforms for ECG Analysis",
+  "year": "2024",
+  "doi_url": "https://doi.org/10.1109/COINS61597.2024.10622676"
+ },
+ {
+  "filename": "2024_novel_integer_hahn_transform_for_real_time_lossless_image_au.pdf",
+  "doi": "10.1109/ACCESS.2024.3457690",
+  "title": "Novel Integer Hahn Transform for Real-Time Lossless Image Authentication in IoT: A 32-Bit Microcontroller Implementation",
+  "year": "2024",
+  "doi_url": "https://doi.org/10.1109/ACCESS.2024.3457690"
+ },
+ {
+  "filename": "2024_automated_arrhythmia_classification_system_proof_of_concept.pdf",
+  "doi": "10.1109/ACCESS.2024.3473323",
+  "title": "Automated Arrhythmia Classification System: Proof-of-Concept With Lightweight Model on an Ultra-Edge Device",
+  "year": "2024",
+  "doi_url": "https://doi.org/10.1109/ACCESS.2024.3473323"
+ },
+ {
+  "filename": "2023_an_on_device_machine_learning_assisted_system_for_unobtrusiv.pdf",
+  "doi": "10.1016/j.micpro.2023.104906",
+  "title": "An on-device machine learning assisted system for unobtrusive cardiac auscultation",
+  "year": "2023",
+  "doi_url": "https://doi.org/10.1016/j.micpro.2023.104906"
+ },
+ {
+  "filename": "2023_a_practical_wearable_fall_detection_system_based_on_tiny_con.pdf",
+  "doi": "10.1016/j.bspc.2023.105325",
+  "title": "A practical wearable fall detection system based on tiny convolutional neural networks",
+  "year": "2023",
+  "doi_url": "https://doi.org/10.1016/j.bspc.2023.105325"
+ },
+ {
+  "filename": "2023_automated_generation_of_tiny_model_for_real_time_ecg_classif.pdf",
+  "doi": "10.1145/3560905.3568081",
+  "title": "Automated Generation of Tiny Model for Real-Time ECG Classification on Tiny Edge Devices",
+  "year": "2023",
+  "doi_url": "https://doi.org/10.1145/3560905.3568081"
+ },
+ {
+  "filename": "2023_an_automated_machine_learning_system_for_generating_myocardi.pdf",
+  "doi": "10.1109/IIAI-AAI59060.2023.00064",
+  "title": "An Automated Machine Learning System for Generating Myocardial Infarction Location Classifiers Using Lead-I ECG Signal",
+  "year": "2023",
+  "doi_url": "https://doi.org/10.1109/IIAI-AAI59060.2023.00064"
+ },
+ {
+  "filename": "2023_generating_tiny_deep_neural_networks_for_ecg_classification.pdf",
+  "doi": "10.1109/PerComWorkshops56833.2023.10150311",
+  "title": "Generating Tiny Deep Neural Networks for ECG Classification on Micro-Controllers",
+  "year": "2023",
+  "doi_url": "https://doi.org/10.1109/PerComWorkshops56833.2023.10150311"
+ },
+ {
+  "filename": "2022_pros_an_efficient_pattern_driven_compressive_sensing_framewo.pdf",
+  "doi": "10.1145/3495243.3560533",
+  "title": "PROS: An Efficient Pattern-Driven Compressive Sensing Framework for Low-Power Biopotential-basedWearables with On-chip Intelligence",
+  "year": "2022",
+  "doi_url": "https://doi.org/10.1145/3495243.3560533"
+ },
+ {
+  "filename": "2022_embedding_temporal_convolutional_networks_for_energy_efficie.pdf",
+  "doi": "10.1145/3487910",
+  "title": "Embedding Temporal Convolutional Networks for Energy-efficient PPG-based Heart Rate Monitoring",
+  "year": "2022",
+  "doi_url": "https://doi.org/10.1145/3487910"
+ },
+ {
+  "filename": "2022_energy_saving_on_constrained_12_leads_real_time_ecg_monitori.pdf",
+  "doi": "10.1109/GLOBECOM48099.2022.10001012",
+  "title": "Energy Saving on Constrained 12-Leads Real-Time ECG Monitoring",
+  "year": "2022",
+  "doi_url": "https://doi.org/10.1109/GLOBECOM48099.2022.10001012"
+ },
+ {
+  "filename": "2021_low_latency_detection_of_epileptic_seizures_from_ieeg_with_t.pdf",
+  "doi": "10.1109/SAS51076.2021.9530181",
+  "title": "Low-latency detection of epileptic seizures from IEEG with temporal convolutional networks on a low-power parallel MCU",
+  "year": "2021",
+  "doi_url": "https://doi.org/10.1109/SAS51076.2021.9530181"
+ },
+ {
+  "filename": "2021_recurrent_neural_network_for_human_activity_recognition_in_e.pdf",
+  "doi": "10.3390/electronics10141715",
+  "title": "Recurrent neural network for human activity recognition in embedded systems using ppg and accelerometer data",
+  "year": "2021",
+  "doi_url": "https://doi.org/10.3390/electronics10141715"
+ },
+ {
+  "filename": "2021_design_of_a_nearly_linear_phase_iir_filter_and_jpeg_compress.pdf",
+  "doi": "10.1016/j.bspc.2021.102431",
+  "title": "Design of a nearly linear-phase IIR filter and JPEG compression ECG signal in real-time system",
+  "year": "2021",
+  "doi_url": "https://doi.org/10.1016/j.bspc.2021.102431"
+ },
+ {
+  "filename": "2021_resource_constrained_cvd_classification_using_single_lead_ec.pdf",
+  "doi": "10.1109/EMBC46164.2021.9630348",
+  "title": "Resource Constrained CVD Classification Using Single Lead ECG on Wearable and Implantable Devices",
+  "year": "2021",
+  "doi_url": "https://doi.org/10.1109/EMBC46164.2021.9630348"
+ },
+ {
+  "filename": "2021_a_simple_and_efficient_near_lossless_compression_algorithm_f.pdf",
+  "doi": "10.23919/EUSIPCO54536.2021.9615953",
+  "title": "A Simple and Efficient Near-lossless Compression Algorithm for Multichannel EEG Systems",
+  "year": "2021",
+  "doi_url": "https://doi.org/10.23919/EUSIPCO54536.2021.9615953"
+ },
+ {
+  "filename": "2025_online_on_device_adaptation_of_linguistic_fuzzy_models_for_t.pdf",
+  "doi": "10.3390/ai6120325",
+  "url": "https://www.mdpi.com/2673-2688/6/12/325/pdf",
+  "status": "gold",
+  "title": "Online On-Device Adaptation of Linguistic Fuzzy Models for TinyML Systems"
+ },
+ {
+  "filename": "2025_benchmarking_ultra_low_power_npus.pdf",
+  "doi": "10.1145/3680207.3765264",
+  "url": "https://dl.acm.org/doi/pdf/10.1145/3680207.3765264",
+  "status": "gold",
+  "title": "Benchmarking Ultra-Low-Power \u03bcNPUs"
+ },
+ {
+  "filename": "2025_real_time_assessment_of_ecg_classification_based_on_time_ser.pdf",
+  "doi": "10.5614/j.eng.technol.sci.2025.57.4.8",
+  "url": "https://jets.itb.ac.id/jets/article/download/502/209",
+  "status": "gold",
+  "title": "Real-time Assessment of ECG Classification based on Time-series Data and Other Types of Features"
+ },
+ {
+  "filename": "2025_reliable_ecg_anomaly_detection_on_edge_devices_for_internet.pdf",
+  "doi": "10.3390/s25082496",
+  "url": "https://www.mdpi.com/1424-8220/25/8/2496/pdf?version=1744732568",
+  "status": "gold",
+  "title": "Reliable ECG Anomaly Detection on Edge Devices for Internet of Medical Things Applications"
+ },
+ {
+  "filename": "2025_early_driver_fatigue_detection_system_a_cost_effective_and_w.pdf",
+  "doi": "10.3390/vehicles7010003",
+  "url": "https://www.mdpi.com/2624-8921/7/1/3/pdf?version=1736332135",
+  "status": "gold",
+  "title": "Early Driver Fatigue Detection System: A Cost-Effective and Wearable Approach Utilizing Embedded Machine Learning"
+ },
+ {
+  "filename": "2025_implementing_deep_neural_networks_on_arm_based_microcontroll.pdf",
+  "doi": "10.3390/app15041965",
+  "url": "https://www.mdpi.com/2076-3417/15/4/1965/pdf?version=1739518142",
+  "status": "gold",
+  "title": "Implementing Deep Neural Networks on ARM-Based Microcontrollers: Application for Ventricular Fibrillation Detection"
+ },
+ {
+  "filename": "2025_a_survey_of_efficient_lightweight_cryptography_for_power_con.pdf",
+  "doi": "10.3390/technologies13010003",
+  "url": "https://www.mdpi.com/2227-7080/13/1/3/pdf?version=1735052278",
+  "status": "gold",
+  "title": "A Survey of Efficient Lightweight Cryptography for Power-Constrained Microcontrollers"
+ },
+ {
+  "filename": "2025_advancing_wearable_health_and_sports_monitoring_through_an_e.pdf",
+  "doi": "10.1145/3706594.3727580",
+  "url": "https://accedacris.ulpgc.es/jspui/bitstream/10553/147010/1/Montiel.pdf",
+  "status": "green",
+  "title": "Advancing Wearable Health and Sports Monitoring Through an Edge\u2013Cloud AI Continuum. Invited Paper"
+ },
+ {
+  "filename": "2024_research_on_a_lightweight_arrhythmia_classification_model_ba.pdf",
+  "doi": "10.3390/s24247896",
+  "url": "https://www.mdpi.com/1424-8220/24/24/7896/pdf?version=1733846420",
+  "status": "gold",
+  "title": "Research on a Lightweight Arrhythmia Classification Model Based on Knowledge Distillation for Wearable Single-Lead ECG Monitoring Systems"
+ },
+ {
+  "filename": "2024_analyzing_and_comparing_deep_learning_models_on_an_arm_32_bi.pdf",
+  "doi": "10.1109/JSEN.2024.3364249",
+  "url": "https://hal.science/hal-04462710v2/document",
+  "status": "green",
+  "title": "Analyzing and Comparing Deep Learning Models on an ARM 32 Bits Microcontroller for Pre-Impact Fall Detection"
+ },
+ {
+  "filename": "2024_real_time_temperature_anomaly_detection_in_vaccine_refrigera.pdf",
+  "doi": "10.3389/frai.2024.1429602",
+  "url": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1429602/pdf",
+  "status": "gold",
+  "title": "Real-time temperature anomaly detection in vaccine refrigeration systems using deep learning on a resource-constrained microcontroller"
+ },
+ {
+  "filename": "2024_flexible_and_fully_quantized_lightweight_tinyissimoyolo_for.pdf",
+  "doi": "10.1109/ACCESS.2024.3404878",
+  "url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/10538092.pdf",
+  "status": "gold",
+  "title": "Flexible and Fully Quantized Lightweight TinyissimoYOLO for Ultra-Low-Power Edge Systems"
+ },
+ {
+  "filename": "2024_m2skd_multi_to_single_knowledge_distillation_of_real_time_ep.pdf",
+  "doi": "10.1145/3675402",
+  "url": "https://bird.bcamath.org/bitstream/20.500.11824/1938/1/54026886_File000002_1348228181.pdf",
+  "status": "green",
+  "title": "M2SKD: Multi-to-Single Knowledge Distillation of Real-Time Epileptic Seizure Detection for Low-Power Wearable Systems"
+ },
+ {
+  "filename": "2024_a_review_on_the_emerging_technology_of_tinyml.pdf",
+  "doi": "10.1145/3661820",
+  "url": "https://dl.acm.org/doi/pdf/10.1145/3661820",
+  "status": "hybrid",
+  "title": "A Review on the emerging technology of TinyML"
+ },
+ {
+  "filename": "2023_design_and_implementation_of_an_atrial_fibrillation_detectio.pdf",
+  "doi": "10.3390/s23177521",
+  "url": "https://www.mdpi.com/1424-8220/23/17/7521/pdf?version=1693374819",
+  "status": "gold",
+  "title": "Design and Implementation of an Atrial Fibrillation Detection Algorithm on the ARM Cortex-M4 Microcontroller"
+ },
+ {
+  "filename": "2023_a_circulant_inertia_three_hopfield_neuron_system_dynamics_of.pdf",
+  "doi": "10.1088/1402-4896/acdcce",
+  "url": "https://iopscience.iop.org/article/10.1088/1402-4896/acdcce/pdf",
+  "status": "hybrid",
+  "title": "A circulant inertia three Hopfield neuron system: dynamics, offset boosting, multistability and simple microcontroller- based practical implementation"
+ },
+ {
+  "filename": "2023_a_tiny_matched_filter_based_cnn_for_inter_patient_ecg_classi.pdf",
+  "doi": "10.3390/s23031365",
+  "url": "https://www.mdpi.com/1424-8220/23/3/1365/pdf?version=1676019736",
+  "status": "gold",
+  "title": "A Tiny Matched Filter-Based CNN for Inter-Patient ECG Classification and Arrhythmia Detection at the Edge"
+ },
+ {
+  "filename": "2023_a_microcontroller_based_platform_for_cognitive_tracking_of_s.pdf",
+  "doi": "10.1109/ACCESS.2023.3294097",
+  "url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/10177705.pdf",
+  "status": "gold",
+  "title": "A Microcontroller-Based Platform for Cognitive Tracking of Sensorimotor Training"
+ },
+ {
+  "filename": "2022_a_comparison_of_energy_efficient_seizure_detectors_for_impla.pdf",
+  "doi": "10.3389/fneur.2021.703797",
+  "url": "https://www.frontiersin.org/articles/10.3389/fneur.2021.703797/pdf",
+  "status": "gold",
+  "title": "A Comparison of Energy-Efficient Seizure Detectors for Implantable Neurostimulation Devices"
+ },
+ {
+  "filename": "2022_a_self_contained_stft_cnn_for_ecg_classification_and_arrhyth.pdf",
+  "doi": "10.1109/ACCESS.2022.3204703",
+  "url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/09878113.pdf",
+  "status": "gold",
+  "title": "A Self-Contained STFT CNN for ECG Classification and Arrhythmia Detection at the Edge"
+ }
+]
