@@ -88,6 +88,10 @@ count used in the paper is the element-wise minimum of the two pipelines'
 counts. Cells with consensus ≥ 2 are the cells reported as empirically
 supported in the paper's decision matrix.
 
+## AI tools usage
+
+The code and also the generation of the github repository contents have been checked and reviewed using Claude AI/Opus 4.6. Research team has also manually verified as thoroughly as possible to ensure the work can be validated/reproduced. 
+
 ## License
 
 Code: MIT (see `LICENSE`). Source PDFs: respective publishers; not
